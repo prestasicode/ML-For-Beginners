@@ -13,6 +13,7 @@ print("You can end this conversation at any time by typing 'bye'")
 print("After typing each answer, press 'enter'")
 print("How are you today?")
 
+
 while True:
     # wait for the user to enter some text
     user_input = input("> ")
